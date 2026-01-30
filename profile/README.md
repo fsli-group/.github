@@ -23,6 +23,8 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 
 ### > Notre Stack Technologique
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -68,6 +70,8 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 </td>
 </tr>
 </table>
+
+</div>
 
 **Technologies en Détail**
 
@@ -112,6 +116,8 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 
 ### > Our Technology Stack
 
+<div align="center">
+
 <table>
 <tr>
 <td align="center" width="50%">
@@ -157,6 +163,8 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 </td>
 </tr>
 </table>
+
+</div>
 
 **Technologies in Detail**
 
