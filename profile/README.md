@@ -91,6 +91,16 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 
 ---
 
+<div align="center">
+
+**Technologies & Compétences**
+
+<kbd>PHP</kbd> <kbd>Symfony</kbd> <kbd>React</kbd> <kbd>React Native</kbd> <kbd>Flutter</kbd> <kbd>WordPress</kbd> <kbd>MySQL</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Node.js</kbd> <kbd>API REST</kbd> <kbd>GraphQL</kbd> <kbd>Docker</kbd> <kbd>Git</kbd> <kbd>Composer</kbd> <kbd>NPM</kbd> <kbd>Yarn</kbd> <kbd>Redux</kbd> <kbd>React Hooks</kbd> <kbd>Material-UI</kbd> <kbd>Bootstrap</kbd> <kbd>Tailwind CSS</kbd> <kbd>Sass</kbd> <kbd>Webpack</kbd> <kbd>Vite</kbd> <kbd>Laravel</kbd> <kbd>Doctrine</kbd> <kbd>Twig</kbd> <kbd>WooCommerce</kbd> <kbd>Elementor</kbd> <kbd>ACF</kbd> <kbd>Gutenberg</kbd> <kbd>iOS</kbd> <kbd>Android</kbd> <kbd>Firebase</kbd> <kbd>PostgreSQL</kbd> <kbd>MongoDB</kbd> <kbd>Redis</kbd> <kbd>Nginx</kbd> <kbd>Apache</kbd> <kbd>Linux</kbd> <kbd>AWS</kbd> <kbd>CI/CD</kbd> <kbd>Jest</kbd> <kbd>PHPUnit</kbd> <kbd>Cypress</kbd> <kbd>Postman</kbd> <kbd>Figma</kbd> <kbd>Agile</kbd> <kbd>Scrum</kbd>
+
+</div>
+
+---
+
 ### > Notre Approche
 
 <div align="center">
@@ -195,6 +205,16 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 - **Mobile Applications**: Cross-platform development with **React Native** and **Flutter** for high-performance iOS and Android applications
 - **Content Management**: Custom website design and development with **WordPress**, combining flexibility and ease of use
 - **Database**: Efficient data management with **MySQL**, ensuring integrity and performance
+
+</div>
+
+---
+
+<div align="center">
+
+**Technologies & Skills**
+
+<kbd>PHP</kbd> <kbd>Symfony</kbd> <kbd>React</kbd> <kbd>React Native</kbd> <kbd>Flutter</kbd> <kbd>WordPress</kbd> <kbd>MySQL</kbd> <kbd>JavaScript</kbd> <kbd>TypeScript</kbd> <kbd>Node.js</kbd> <kbd>REST API</kbd> <kbd>GraphQL</kbd> <kbd>Docker</kbd> <kbd>Git</kbd> <kbd>Composer</kbd> <kbd>NPM</kbd> <kbd>Yarn</kbd> <kbd>Redux</kbd> <kbd>React Hooks</kbd> <kbd>Material-UI</kbd> <kbd>Bootstrap</kbd> <kbd>Tailwind CSS</kbd> <kbd>Sass</kbd> <kbd>Webpack</kbd> <kbd>Vite</kbd> <kbd>Laravel</kbd> <kbd>Doctrine</kbd> <kbd>Twig</kbd> <kbd>WooCommerce</kbd> <kbd>Elementor</kbd> <kbd>ACF</kbd> <kbd>Gutenberg</kbd> <kbd>iOS</kbd> <kbd>Android</kbd> <kbd>Firebase</kbd> <kbd>PostgreSQL</kbd> <kbd>MongoDB</kbd> <kbd>Redis</kbd> <kbd>Nginx</kbd> <kbd>Apache</kbd> <kbd>Linux</kbd> <kbd>AWS</kbd> <kbd>CI/CD</kbd> <kbd>Jest</kbd> <kbd>PHPUnit</kbd> <kbd>Cypress</kbd> <kbd>Postman</kbd> <kbd>Figma</kbd> <kbd>Agile</kbd> <kbd>Scrum</kbd>
 
 </div>
 
