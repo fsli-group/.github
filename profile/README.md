@@ -93,6 +93,8 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 
 ### > Notre Approche
 
+<div align="center">
+
 | | |
 |---|---|
 | **Innovation** | Adoption des meilleures pratiques et technologies modernes |
@@ -100,6 +102,8 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 | **Performance** | Solutions optimisées pour la rapidité et l'évolutivité |
 | **Collaboration** | Travail d'équipe et communication transparente |
 | **Évolution Continue** | Amélioration et apprentissage constants |
+
+</div>
 
 ---
 
@@ -198,6 +202,8 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 
 ### > Our Approach
 
+<div align="center">
+
 | | |
 |---|---|
 | **Innovation** | Adoption of best practices and modern technologies |
@@ -205,6 +211,8 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 | **Performance** | Solutions optimized for speed and scalability |
 | **Collaboration** | Teamwork and transparent communication |
 | **Continuous Improvement** | Constant learning and enhancement |
+
+</div>
 
 ---
 
