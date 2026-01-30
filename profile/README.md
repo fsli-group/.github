@@ -15,9 +15,13 @@
 
 ### > À Propos de FSLI-GROUP
 
+<div align="justify">
+
 **FSLI-GROUP** est une organisation spécialisée dans le développement de solutions numériques innovantes et performantes. Nous combinons expertise technique et approche centrée sur le client pour créer des applications web et mobiles de haute qualité qui répondent aux besoins métier les plus exigeants.
 
 Notre équipe de développeurs passionnés s'engage à livrer des solutions robustes, évolutives et maintenables en utilisant les technologies les plus modernes et éprouvées du marché.
+
+</div>
 
 ---
 
@@ -73,6 +77,8 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 
 </div>
 
+<div align="justify">
+
 **Technologies en Détail**
 
 - **Backend** : Développement d'APIs robustes et de services web avec **PHP** et le framework **Symfony**, garantissant performance, sécurité et maintenabilité
@@ -80,6 +86,8 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 - **Applications Mobiles** : Développement cross-platform avec **React Native** et **Flutter** pour des applications iOS et Android performantes
 - **Gestion de Contenu** : Conception et développement de sites web sur mesure avec **WordPress**, alliant flexibilité et facilité d'utilisation
 - **Base de Données** : Gestion efficace des données avec **MySQL**, assurant intégrité et performance
+
+</div>
 
 ---
 
@@ -97,10 +105,14 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 
 ### > Contact
 
+<div align="center">
+
 **Vous avez un projet en tête ? Parlons-en !**
 
 [![Website](https://img.shields.io/badge/🌐_Site_Web-fsli--group.com-0066cc?style=flat-square)](https://fsli-group.com)
 [![Email](https://img.shields.io/badge/📧_Email-contact@fsligroup.com-ea4335?style=flat-square)](mailto:contact@fsligroup.com)
+
+</div>
 
 ---
 
@@ -108,9 +120,13 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 
 ### > About FSLI-GROUP
 
+<div align="justify">
+
 **FSLI-GROUP** is an organization specialized in developing innovative and high-performance digital solutions. We combine technical expertise with a client-centered approach to create high-quality web and mobile applications that meet the most demanding business needs.
 
 Our team of passionate developers is committed to delivering robust, scalable, and maintainable solutions using the most modern and proven technologies on the market.
+
+</div>
 
 ---
 
@@ -166,6 +182,8 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 
 </div>
 
+<div align="justify">
+
 **Technologies in Detail**
 
 - **Backend**: Development of robust APIs and web services with **PHP** and the **Symfony** framework, ensuring performance, security, and maintainability
@@ -173,6 +191,8 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 - **Mobile Applications**: Cross-platform development with **React Native** and **Flutter** for high-performance iOS and Android applications
 - **Content Management**: Custom website design and development with **WordPress**, combining flexibility and ease of use
 - **Database**: Efficient data management with **MySQL**, ensuring integrity and performance
+
+</div>
 
 ---
 
@@ -190,10 +210,14 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 
 ### > Contact
 
+<div align="center">
+
 **Have a project in mind? Let's talk!**
 
 [![Website](https://img.shields.io/badge/🌐_Website-fsli--group.com-0066cc?style=flat-square)](https://fsli-group.com)
 [![Email](https://img.shields.io/badge/📧_Email-contact@fsligroup.com-ea4335?style=flat-square)](mailto:contact@fsligroup.com)
+
+</div>
 
 ---
 
