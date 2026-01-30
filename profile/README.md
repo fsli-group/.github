@@ -67,6 +67,18 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </div>
 
@@ -79,6 +91,9 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 - **Applications Mobiles** : Développement cross-platform avec **React Native** et **Flutter** pour des applications iOS et Android performantes
 - **Gestion de Contenu** : Conception et développement de sites web sur mesure avec **WordPress**, alliant flexibilité et facilité d'utilisation
 - **Base de Données** : Gestion efficace des données avec **MySQL**, assurant intégrité et performance
+- **Intelligence Artificielle** : Intégration de solutions IA avec **ChatGPT**, **Claude**, **Google AI**, et frameworks comme **TensorFlow** et **Hugging Face**
+- **Outils de Développement** : Environnements modernes avec **VS Code**, **GitHub Copilot** pour une productivité accrue
+- **Automatisation** : Optimisation des workflows avec **Zapier**, **n8n**, **GitHub Actions**, **Jenkins** et **Selenium**
 
 </div>
 
@@ -169,6 +184,18 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 </div>
 
@@ -181,6 +208,9 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 - **Mobile Applications**: Cross-platform development with **React Native** and **Flutter** for high-performance iOS and Android applications
 - **Content Management**: Custom website design and development with **WordPress**, combining flexibility and ease of use
 - **Database**: Efficient data management with **MySQL**, ensuring integrity and performance
+- **Artificial Intelligence**: Integration of AI solutions with **ChatGPT**, **Claude**, **Google AI**, and frameworks like **TensorFlow** and **Hugging Face**
+- **Development Tools**: Modern environments with **VS Code**, **GitHub Copilot** for enhanced productivity
+- **Automation**: Workflow optimization with **Zapier**, **n8n**, **GitHub Actions**, **Jenkins**, and **Selenium**
 
 </div>
 
