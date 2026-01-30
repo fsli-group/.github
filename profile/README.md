@@ -199,6 +199,6 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 
 <div align="center">
 
-**© 2024 FSLI-GROUP - Together, Beyond Possibilities**
+**© 2026 FSLI-GROUP - Together, Beyond Possibilities**
 
 </div>
