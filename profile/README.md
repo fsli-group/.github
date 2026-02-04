@@ -91,7 +91,7 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 - **Applications Mobiles** : Développement cross-platform avec **React Native** et **Flutter** pour des applications iOS et Android performantes
 - **Gestion de Contenu** : Conception et développement de sites web sur mesure avec **WordPress**, alliant flexibilité et facilité d'utilisation
 - **Base de Données** : Gestion efficace des données avec **MySQL**, assurant intégrité et performance
-- **Intelligence Artificielle** : Intégration de solutions IA avec **ChatGPT**, **Claude**, **Google AI**, et frameworks comme **TensorFlow** et **Hugging Face**
+- **Intelligence Artificielle** : Intégration de solutions IA avec **ChatGPT**, **Claude**, **Google AI**, et frameworks comme **TensorFlow** et **Hugging Face** ainsi que des **Chatbots** et **Assistants Virtuels** 
 - **Outils de Développement** : Environnements modernes avec **VS Code**, **GitHub Copilot** pour une productivité accrue
 - **Automatisation** : Optimisation des workflows avec **Zapier**, **n8n**, **GitHub Actions**, **Jenkins** et **Selenium**
 
@@ -208,7 +208,7 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 - **Mobile Applications**: Cross-platform development with **React Native** and **Flutter** for high-performance iOS and Android applications
 - **Content Management**: Custom website design and development with **WordPress**, combining flexibility and ease of use
 - **Database**: Efficient data management with **MySQL**, ensuring integrity and performance
-- **Artificial Intelligence**: Integration of AI solutions with **ChatGPT**, **Claude**, **Google AI**, and frameworks like **TensorFlow** and **Hugging Face**
+- **Artificial Intelligence**: Integration of AI solutions with **ChatGPT**, **Claude**, **Google AI**, and frameworks like **TensorFlow** and **Hugging Face** as well as **Chatbots** and **Virtual Assistants**
 - **Development Tools**: Modern environments with **VS Code**, **GitHub Copilot** for enhanced productivity
 - **Automation**: Workflow optimization with **Zapier**, **n8n**, **GitHub Actions**, **Jenkins**, and **Selenium**
 
