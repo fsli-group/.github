@@ -115,6 +115,24 @@ Notre équipe de développeurs passionnés s'engage à livrer des solutions robu
 
 ---
 
+### > Outsourcing & Services
+
+<div align="justify">
+
+**FSLI-GROUP** propose des services d'externalisation (outsourcing) pour accompagner votre entreprise dans sa transformation digitale. Nous mettons à votre disposition des équipes dédiées et des experts qualifiés pour renforcer vos capacités de développement.
+
+**Nos Services d'Outsourcing :**
+
+- **Équipes Dédiées** : Constitution d'équipes de développement sur mesure pour vos projets
+- **Staff Augmentation** : Renforcement de vos équipes existantes avec nos développeurs experts
+- **Développement Offshore** : Solutions de développement à distance avec une communication transparente
+- **Gestion de Projet** : Prise en charge complète de vos projets de A à Z
+- **Support & Maintenance** : Assistance continue et maintenance évolutive de vos applications
+
+</div>
+
+---
+
 ### > Contact
 
 <div align="center">
@@ -227,6 +245,24 @@ Our team of passionate developers is committed to delivering robust, scalable, a
 | **Performance** | Solutions optimized for speed and scalability |
 | **Collaboration** | Teamwork and transparent communication |
 | **Continuous Improvement** | Constant learning and enhancement |
+
+</div>
+
+---
+
+### > Outsourcing & Services
+
+<div align="justify">
+
+**FSLI-GROUP** offers outsourcing services to support your company in its digital transformation. We provide dedicated teams and qualified experts to strengthen your development capabilities.
+
+**Our Outsourcing Services:**
+
+- **Dedicated Teams**: Building custom development teams for your projects
+- **Staff Augmentation**: Reinforcing your existing teams with our expert developers
+- **Offshore Development**: Remote development solutions with transparent communication
+- **Project Management**: Complete end-to-end project management
+- **Support & Maintenance**: Ongoing assistance and continuous maintenance of your applications
 
 </div>
 
